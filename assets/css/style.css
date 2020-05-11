@@ -71,15 +71,16 @@ h3 {
 
 .hero {
     background-image: url("../images/hero-bg.jpg");
-    background-size: cover;
-    background-position: 80%;
+    background-size: 25%;
+    background-position: 75%;
+    background-repeat: no-repeat;
     display: flex;
     justify-content: right;
     flex-wrap: wrap;
     align-items: end;
     flex-direction: row-reverse;
     background-attachment: fixed;
-    padding: 250px 0 0 0;
+    padding: 500px 0 0 1000px;
 }
 
 /* hero style end */

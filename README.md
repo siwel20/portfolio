@@ -3,7 +3,8 @@
 ## added header and with nav links.
 
 ## added a hero section. 
-*Found and downloaded a free hero picture from the following site: Image by <a href="https://pixabay.com/users/PublicDomainPictures-14/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=165192">PublicDomainPictures</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=165192">Pixabay</a>
+*added photo of myself*
+
 *Customized the header to sit in the lower left hand corner of the hero section. 
 
 ##added section headings.
