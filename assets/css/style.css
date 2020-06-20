@@ -168,7 +168,7 @@ h3 {
 }
 
 .project-4 {
-    background-color: green;
+    background-image: url(../images/git-it-done.PNG);
     grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start: 3;
@@ -176,7 +176,7 @@ h3 {
 }
 
 .project-5 {
-    background-color: orange;
+    background-image: url(../images/calm-blue.jpg);
     grid-column-start: 2;
     grid-column-end: 3;
     grid-row-start: 3;
